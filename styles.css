@@ -1,0 +1,39 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: none;
+  box-sizing: border-box;
+  list-style: none;
+  text-decoration: none;
+  font-size: 1.4rem;
+  font-family: 'sans-serif';
+}
+
+html {
+  font-size: 62.5%;
+}
+
+main {
+  padding: 7.2rem 5px;
+  padding-bottom: 60px;
+  margin-top: 2rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid black;
+  height: 9px;
+}
+
+.text {
+  width: 100%;
+    max-width: 64rem;
+}
+
+h1 {
+  padding: 1.5rem;
+
+}
+
+ul {
+  text-align: justify;
+}
