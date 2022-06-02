@@ -1,7 +1,7 @@
 
 # Exercício de Html e CSS 
 
-Aula do Curso Front End da Digital House. 
+Aula do Curso Front End da Digital House. Resultado aqui: CLIQUE (https://caroline-medeiros.github.io/frontend-m03-01-html-exercicio/)
 
 
 ## Referência
